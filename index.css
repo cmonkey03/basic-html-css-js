@@ -5,6 +5,10 @@
 li {
   display: horizontal;
   line-height: 17px;
+  border: 1px;
+  border-width: thin;
+  border-style: double;
+  margin: 2px;
 }
 
 h1 {
