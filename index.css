@@ -16,3 +16,8 @@ h1 {
   background-color: black;
   text-align: center;
 }
+
+p::first-line {
+  color: #ff0000;
+  font-variant: small-caps;
+}
