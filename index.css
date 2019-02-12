@@ -1,0 +1,14 @@
+.intro {
+  text-align: center;
+}
+
+li {
+  display: horizontal;
+  line-height: 17px;
+}
+
+h1 {
+  color: blue;
+  background-color: black;
+  text-align: center;
+}
