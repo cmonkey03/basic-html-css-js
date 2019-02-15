@@ -4,3 +4,7 @@ var intro = document.getElementsByClassName('intro')
 var second = document.getElementById('second')
 
 console.log(intro)
+
+var p = document.createElement("p")
+console.log(p)
+second.appendChild(p);
