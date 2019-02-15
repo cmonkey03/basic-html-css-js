@@ -7,4 +7,3 @@ console.log(intro)
 
 var p = document.createElement("p")
 console.log(p)
-second.appendChild(p);
